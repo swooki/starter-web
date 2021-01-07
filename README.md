@@ -12,6 +12,9 @@ Comparison Example - Local Staged
 ### Introduction
 Comparison Example - Workding Directory
 ### Purpose
+Add purpose
 ### Implementation
+Add last line
+
 
 
