@@ -8,6 +8,7 @@ Sample website with plenty of files for demos
 
 
 ## Comparisons
+Comparison Example - Local Staged
 ### Introduction
 ### Purpose
 ### Implementation
